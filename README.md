@@ -7,4 +7,4 @@ White papers are designed to be used as a marketing tool before a sale, and not 
 
 [Important: White papers may also be technical documents elaborating on a new invention or product offering.]
 
-Courtesy:https://www.investopedia.com/terms/w/whitepaper.asp
+Source:https://www.investopedia.com/terms/w/whitepaper.asp
